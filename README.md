@@ -1,4 +1,4 @@
-# posterization-pyladies
+# posterization-k-means
 
 This is the code for a workshop I ran in June 2015.  In it we implement [k-means clustering](http://en.wikipedia.org/wiki/K-means_clustering) and use it to "posterize" images.
 
